@@ -24,9 +24,9 @@ website:
         file: contact.qmd
     right:
       - icon: github
-        href: https://github.com/seu-usuario
+        href: https://github.com/LadsPlayer
       - icon: linkedin
-        href: https://www.linkedin.com/in/seu-usuario/
+        href: https://www.linkedin.com/in/luciano-alves-42795616a/
 
   sidebar:
     style: "docked"

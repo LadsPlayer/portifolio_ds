@@ -7,56 +7,33 @@ format:
 
 ## Identificação
 
-**Nome:** Pedro Monteiro de Almeida Junior  
+**Nome:** Luciano Alves dos Santos
 
-**Lattes:** [http://lattes.cnpq.br/](http://lattes.cnpq.br/7620146467708985)
+**Lattes:** [http://lattes.cnpq.br/](http://lattes.cnpq.br/7092570855470964)
 
-**ORCID:** [https://orcid.org/](https://orcid.org/0000-0003-0887-1639)  
+**Linkedin:** [https://www.linkedin.com/](https://www.linkedin.com/in/luciano-alves-42795616a/) 
 
-**Linkedin:** [https://www.linkedin.com/](https://www.linkedin.com/in/pedro-almeida-1b9676122/) 
-
-**Email:** pedroalmeida@servidor.uepb.edu.br
+**Email:** ladsplayer@gmail.com
 
 ## Formação Acadêmica
 
-### Pós-Graduação
-
-**2018-2021: Doutorado em Estatística**  
-Universidade Federal de Pernambuco (UFPE).  
-
-Título: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.
-
-Orientador: Prof. Dr. Abraão David Costa do Nascimento
-
-**2014-2016: Mestrado em Estatística**  
-Universidade Federal de Pernambuco (UFPE)   
-
-Título: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting
-
-Orientador: Prof. Dr. Abraão David Costa do Nascimento
-
+### Ensino Médio - Técnico
+**2015-2019: Técnico em Informática**
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) - Campus Picuí
 
 ### Graduação
 
-**2011-2014: Bacharelado em Estatística**  
-Universidade Federal da Paraíba (UFPB)
+**2020-2026: Bacharelado em Estatística**  
+Universidade Estadual da Paraíba (UEPB)
 
 ## Experiência Profissional
 
-**2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais**  
-Capgemini - Experiência do usuário - Projeto Banco do Brasil.
+**2019-2019: Instrutor de Informática**  
+SESI.
 
-**2025-atual: Professor Adjunto A**  
-UEPB - Departamento de Estatística
+**2020-atual: Professor e Técnico em Informática**  
+EMEF Padre Simão Fileto - Prefeitura Municipal de Cubati
 
-**2021-2023: Professor Substituto**  
-UEPB - Departamento de Estatística
-
-**2021-2022:  Estatístico/Cientista de Dados**  
-HARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia
-
-**2016-2017: Estatístico/Cientista de Dados**  
-Neurotech - Credit Score - Diversos Clientes 
 
 ## Métricas de Produção
 
@@ -69,8 +46,8 @@ library(DT)
 metricas <- data.frame(
   Categoria = c("Artigos em Periódicos", "Capítulos de Livro", "Trabalhos em Conferências", 
                 "Orientações Mestrado", "Orientações Doutorado", "Projetos Coordenados"),
-  Total = c(10, 0, 0, 0, 0, 2),
-  `Últimos 5 anos` = c(10, 0, 0, 0, 0, 2)
+  Total = c(0, 0, 0, 0, 0, 0),
+  `Últimos 5 anos` = c(0, 0, 0, 0, 0, 0)
 )
 
 DT::datatable(metricas, options = list(dom = 't'), rownames = FALSE)
